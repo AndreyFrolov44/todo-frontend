@@ -1,0 +1,15 @@
+ul{
+    list-style-type: none;
+}
+
+nav{
+    width: 200px;
+    margin-left: auto;
+}
+
+nav ul{
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+    
+}
